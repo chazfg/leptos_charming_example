@@ -1,7 +1,7 @@
 use leptos::*;
 use leptos_router::*;
-mod graph2;
-use crate::graph2::GraphExample;
+mod graph;
+use crate::graph::GraphExample;
 
 fn main() {
     mount_to_body(App);
