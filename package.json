@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "echarts": "^5.4.3"
+    "echarts": "^5.4.3",
+    "tailwindcss": "^3.4.1"
   }
 }
