@@ -1,5 +1,6 @@
-# letptos_charming_example
+# Leptos and Charming Example
 Demo of Leptos and Charming charts where Apache eCharts is added to final build through Trunk. Make sure you have Trunk and node installed, along with npm. \
+[Live Demo](https://basic-graph.keepsafe.dev/) \
 [Leptos](https://leptos.dev/) \
 [Charming](https://github.com/yuankunzhang/charming) \
 [Trunk](https://trunkrs.dev/) \
